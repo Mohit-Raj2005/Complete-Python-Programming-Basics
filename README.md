@@ -1,6 +1,7 @@
-# Core Python Programming Repository
+# Complete Python Programming Basics
 
-A beginner‑friendly collection of Python basics with examples on syntax, loops, conditionals, collections, and data types.  
+Beginner‑friendly examples covering Python syntax, loops, conditionals, collections, and data types.  
+This repository is designed to help learners build a strong foundation in Python programming.
 
 ## 📚 Contents
 - **Basic Syntax**  
@@ -33,4 +34,4 @@ This repository is intended for:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/core-python-programming.git
+   git clone https://github.com/your-username/Complete-Python-Programming-Basics.git
